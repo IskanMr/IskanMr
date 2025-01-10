@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Information Technology's Undergrad at Gadjah Mada Universisity who is currently learning about fullstack web development</h3>
+<h3 align="center">An IT Specialist who is currently working in PT Bank Central Asia Tbk (BCA)</h3>
 
 <br>
 
